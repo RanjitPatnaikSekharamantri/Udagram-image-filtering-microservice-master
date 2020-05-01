@@ -49,4 +49,4 @@ Note: _All API requests __require__ authorization headers_ (click [here](http://
 - AWS Elastic Beanstalk deployed application dashboard.
   ![depcruise generated graph](https://github.com/RanjitPatnaik/Udagram-image-filtering-microservice-master/blob/master/deployment_screenshots/Elastic%20Beanstalk.png)
 
-*Postman collection file is [here](https://github.com/RanjitPatnaik/Udagram-image-filtering-microservice-master/blob/master/cloud-cdnd-c2-final.postman_collection.json).*
+*Postman collection file is [here](https://github.com/RanjitPatnaik/Udagram-image-filtering-microservice-master/blob/master/cloud-cdnd-c2-final.postman_collection.json).
