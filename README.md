@@ -47,6 +47,6 @@ Follow this process described in the terminal to eb init a new application and e
 Note: _All API requests __require__ authorization headers_ (click [here](http://localhost:8082/token) to generate a token).
 
 - AWS Elastic Beanstalk deployed application dashboard.
-  ![depcruise generated graph](./deployment_screenshot/eb_app_deployed_and_running_on_aws.png)
+  ![depcruise generated graph](./deployment_screenshot/Elastic Beanstalk.png)
 
 *Postman collection file is [here](https://github.com/RanjitPatnaik/Udagram-image-filtering-microservice-master/blob/master/cloud-cdnd-c2-final.postman_collection.json).*
